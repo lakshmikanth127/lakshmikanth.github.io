@@ -73,7 +73,7 @@ Sep 2023 – Oct 2024
 •	Mentored junior scientists in data storytelling, feature selection, and strategies for handling imbalanced classification challenges.
 •	Used Jest and Mocha for additional testing coverage in API validation.
 ________________________________________
-Client: Cognizant, Hyderabad, India
+Client: National Life Group, Hyderabad, India
 Role: Software Engineer
 Dec 2019 – July 2023
 •	Architected high-throughput, modular microservices for fraud scoring, customer segmentation, and behavioral risk detection using Flask, Node.js, Redis, and PostgreSQL.
